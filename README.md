@@ -1,0 +1,2 @@
+# sllovar
+slovar' dlya vsex
